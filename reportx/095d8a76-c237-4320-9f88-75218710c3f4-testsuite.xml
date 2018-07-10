@@ -1,0 +1,64 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1531196627929" stop="1531196675240">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1531196627929" status="passed" stop="1531196675240">
+      <description>
+        :param username: 用户名
+        :param passwd: 密码
+        :param get_mess: toast传参
+        :param expect_message: 预期toast消息
+        :param tag: 1 标记登陆成功用例
+        :return:
+        </description>
+      <name>Test_Login.test_login_page[test_login_001-13488834010-159357-\u6210\u529f-\u767b\u5f55\u6210\u529f-1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16068-MainThread"/>
+        <label name="host" value="LAPTOP-99HM8ITM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1531196649633" status="passed" stop="1531196650778">
+          <name>点击我的按钮</name>
+          <title>点击我的按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531196650779" status="passed" stop="1531196651619">
+          <name>点击登陆注册按钮</name>
+          <title>点击登陆注册按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531196651619" status="passed" stop="1531196656881">
+          <name>输入用户信息</name>
+          <title>输入用户信息</title>
+          <attachments>
+            <attachment source="8ccce9f5-63aa-427c-8c5f-e2f4ca083096-attachment.txt" title="用户登陆信息：" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1531196659876" status="passed" stop="1531196660013">
+          <name>判断我的订单是否存在</name>
+          <title>判断我的订单是否存在</title>
+          <attachments>
+            <attachment source="fa3b4059-364c-4a44-ad7c-e223a9eec490-attachment.txt" title="状态" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1531196660013" status="passed" stop="1531196675240">
+          <name>退出登陆操作</name>
+          <title>退出登陆操作</title>
+          <attachments>
+            <attachment source="399ac51c-31a2-4947-9425-1795b85edd55-attachment.txt" title="退出状态:" type="text/plain"/>
+            <attachment source="a7abf3cf-e835-4280-98bc-073d463a3557-attachment.txt" title="失败原因:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
