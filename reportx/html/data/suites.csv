@@ -1,9 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","test_login.Test_Login.test_login_page[test_login_001-13488834010-159357-\u6210\u529f-\u767b\u5f55\u6210\u529f-1]","26005","
-        :param username: 用户名
-        :param passwd: 密码
-        :param get_mess: toast传参
-        :param expect_message: 预期toast消息
-        :param tag: 1 标记登陆成功用例
-        :return:
-        "

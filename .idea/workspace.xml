@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24e43972-f3bf-427f-8f4d-dcaca80967c0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Screen/test_0011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/095d8a76-c237-4320-9f88-75218710c3f4-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/399ac51c-31a2-4947-9425-1795b85edd55-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/8ccce9f5-63aa-427c-8c5f-e2f4ca083096-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/a7abf3cf-e835-4280-98bc-073d463a3557-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/fa3b4059-364c-4a44-ad7c-e223a9eec490-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/attachments/1c8c71d3e46abf11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/attachments/59da7d435498dce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/attachments/77744403c1e14b81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Screen/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/test-cases/3563f0ff031c7e10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportx/html/widgets/summary.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="34fa243a-98ee-41f5-bc4c-1e9bbebdcc1f-attachment.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reporto/34fa243a-98ee-41f5-bc4c-1e9bbebdcc1f-attachment.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="7105a143-738d-4928-883a-319a40410197-attachment.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reporto/7105a143-738d-4928-883a-319a40410197-attachment.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="c5d2cd4c-49e7-414d-b811-9c1aecfda21e-attachment.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reporto/c5d2cd4c-49e7-414d-b811-9c1aecfda21e-attachment.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="c69c87ad-1c3b-49c4-b697-a697264b6f07-attachment.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reporto/c69c87ad-1c3b-49c4-b697-a697264b6f07-attachment.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scripts/test.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="420" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app_day_test09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_day_test09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_day_test09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_day_test09" type="462c0819:PsiDirectoryNode" />
+              <item name="reporto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_day_test09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_day_test09" type="462c0819:PsiDirectoryNode" />
+              <item name="Screen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_day_test09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_day_test09" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_day_test09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\汇总--就业班资料\移动端APP测试\app_day_test09\Screen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24e43972-f3bf-427f-8f4d-dcaca80967c0" name="Default" comment="" />
+      <created>1531201267553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531201267553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32978722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34033954" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporto/34fa243a-98ee-41f5-bc4c-1e9bbebdcc1f-attachment.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporto/7105a143-738d-4928-883a-319a40410197-attachment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporto/c5d2cd4c-49e7-414d-b811-9c1aecfda21e-attachment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporto/c69c87ad-1c3b-49c4-b697-a697264b6f07-attachment.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>

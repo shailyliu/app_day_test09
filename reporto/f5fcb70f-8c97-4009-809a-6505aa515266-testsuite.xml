@@ -1,0 +1,60 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1531206959830" stop="1531206959990">
+  <name>test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1531206959830" status="passed" stop="1531206959836">
+      <name>Test_aa.test_01</name>
+      <attachments>
+        <attachment source="7105a143-738d-4928-883a-319a40410197-attachment.txt" title="描述" type="text/plain"/>
+        <attachment source="34fa243a-98ee-41f5-bc4c-1e9bbebdcc1f-attachment.png" title="截图名字" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4576-MainThread"/>
+        <label name="host" value="LAPTOP-99HM8ITM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1531206959848" status="passed" stop="1531206959850">
+      <name>Test_aa.test_002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4576-MainThread"/>
+        <label name="host" value="LAPTOP-99HM8ITM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1531206959851" status="failed" stop="1531206959990">
+      <name>Test_aa.test_003</name>
+      <failure>
+        <message>AssertionError: None
+assert 0</message>
+        <stack-trace>self = &lt;test.Test_aa object at 0x03B229B0&gt;
+
+    def test_003(self):
+&gt;       assert 0,self.test_01()
+E       AssertionError: None
+E       assert 0
+
+Scripts\test.py:12: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="c5d2cd4c-49e7-414d-b811-9c1aecfda21e-attachment.txt" title="描述" type="text/plain"/>
+        <attachment source="c69c87ad-1c3b-49c4-b697-a697264b6f07-attachment.png" title="截图名字" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4576-MainThread"/>
+        <label name="host" value="LAPTOP-99HM8ITM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
